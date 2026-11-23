@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="FoundryLocalAgent/FoundryLocalAgent.csproj" />
+  <Project Path="FoundryLocalSample/FoundryLocalSample.csproj" />
+</Solution>
